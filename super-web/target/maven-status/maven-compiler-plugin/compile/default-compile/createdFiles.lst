@@ -1,0 +1,7 @@
+com\my\service\IUserService.class
+com\my\ServiceStarter.class
+com\my\bo\User.class
+com\my\service\UserService.class
+com\my\controller\HelloWorldController.class
+com\my\controller\RESTfulController.class
+com\my\dao\IUserDao.class
